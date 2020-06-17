@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "180912014126",
+    "firebase_url": "https://cveach-6597f.firebaseio.com",
+    "project_id": "cveach-6597f",
+    "storage_bucket": "cveach-6597f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180912014126:android:229e54449284ab354b70bf",
+        "android_client_info": {
+          "package_name": "liquid.com.cveach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180912014126-hvcvsrk8ugv5riebtkp7mmmmknt63jp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "liquid.com.cveach",
+            "certificate_hash": "873b33a9ccb882df4323799c5fc9bbabd87c97db"
+          }
+        },
+        {
+          "client_id": "180912014126-ocqdisu67lovo6s524n9nt7a135qg6qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXhtYtko46cLSu-r_V5Jtx1A_gbSk-2Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180912014126-ocqdisu67lovo6s524n9nt7a135qg6qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

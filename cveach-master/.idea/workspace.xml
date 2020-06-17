@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37a49888-1207-49f6-800b-727031a1de64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/notifications/push_nofitications.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/java/co/appbrewery/flash_chat/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/lib/constants.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/lib/screens/chat_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/lib/screens/login_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/lib/screens/registration_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/lib/screens/welcome_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-chat-flutter-master/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mi_card_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../mi_card_flutter/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mi_card_flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../mi_card_flutter/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="1" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dLdxTI7NLUKTYg6OtelpbTvHXb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37a49888-1207-49f6-800b-727031a1de64" name="Default Changelist" comment="" />
+      <created>1592208553750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592208553750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
